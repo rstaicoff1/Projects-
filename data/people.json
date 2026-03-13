@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ryan Staicoff",
+    "team": "Milwaukee Bucks",
+    "lat": 38.6274,
+    "lon": 90.1982,
+    "answers": [
+      5,
+      2,
+      5,
+      3,
+      2,
+      3
+    ],
+    "score": 66
+  },
+  {
+    "name": "Ryan Staicoff",
+    "team": "Milwaukee Bucks",
+    "lat": 50.0,
+    "lon": 90.0,
+    "answers": [
+      5,
+      2,
+      3,
+      1,
+      4,
+      3
+    ],
+    "score": 60
+  }
+]
