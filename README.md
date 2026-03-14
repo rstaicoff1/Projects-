@@ -52,6 +52,6 @@ What it does:
 ### `data/people.json`
 
 What it does:
-- Stores all profiles in a local JSON list.
+- Stores all profiles in a local JSON list.  
 ide you step by step.
 If any part feels too hard, ask and I can give you the exact code.
