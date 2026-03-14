@@ -53,7 +53,5 @@ What it does:
 
 What it does:
 - Stores all profiles in a local JSON list.
-
-
-If you want, tell me which file you want to work on first and I will guide you step by step.
+ide you step by step.
 If any part feels too hard, ask and I can give you the exact code.
