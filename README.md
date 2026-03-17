@@ -53,5 +53,3 @@ What it does:
 
 What it does:
 - Stores all profiles in a local JSON list.
-
-(Note: also removed the accidental truncated line 'ide you step by step.' by merging it back into the intended sentence.)
